@@ -1,2 +1,3 @@
 login and logout
 take salary
+apply for a leave
