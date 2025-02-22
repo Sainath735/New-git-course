@@ -1,2 +1,3 @@
 verify users
 add a user and remove user
+approve leave or deny leave 
